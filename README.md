@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A demonstration of this exercise is available at [https://youtu.be/5-eSseFnTws](https://youtu.be/5-eSseFnTws)
+A demonstration of this exercise is available at [https://youtu.be/5-eSseFnTws](https://youtu.be/5-eSseFnTws) (31 minutes)
 
 This exercise will get you much closer to a basic solution to Project 01. You will be implementing the game loop using render, get_input, and update functions.
 
